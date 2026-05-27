@@ -137,7 +137,10 @@ borrow 指令在 ISBN 不存在時沒有回傳任何錯誤訊息，請修正這�
 
 
 ```log
-# 請在此處貼上 git log 內容
+95df2fc test: add test output books.json and update Answer.MD with results
+15a7e35 feat: implement modern_library.py with class-based JSON storage
+355f82b docs: complete code audit report in Answer.MD
+a61d385 init: add project base files and legacy library code
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
