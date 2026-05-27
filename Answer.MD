@@ -148,7 +148,7 @@ a61d385 init: add project base files and legacy library code
 將專案推送到 GitHub (Public) 若提交到 Private 連結不給分。 請設定 Repository 名稱為 `學號-0527-Final` Ex: B11526748-0527-Final **請用 - 不是 _**
 
 ```log
-# 請貼上你的 Repo 網址
+https://github.com/c0968331397-prog/B11409050
 ```
 
 希望這兩份 Markdown 格式能幫你省下不少排版時間！祝你的考試順利舉行！
